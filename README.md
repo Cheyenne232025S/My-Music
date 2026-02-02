@@ -20,8 +20,8 @@ These two beats I made by using available drum kits on ableton live lite and map
 
 
 ## More
-It has been really fun to be working with digital music making tools as I have always loved playing music and learning. It is really amazing to me how much more we can create on a single platform compared to when everything was done with hardware and analog sound affect 'machines'.
+- It has been really fun to be working with digital music making tools as I have always loved playing music and learning. It is really amazing to me how much more we can create on a single platform compared to when everything was done with hardware and analog sound affect 'machines'.
 
-I plan on updating this as a evolve as a musician. 
+- I plan on updating this as I evolve as a musician. 
 
-I also have been experimenting with lryic writing, however, at the moment I am not quite comfterable with sharing with the entire internet.
+- I have been experimenting with lryic writing, however, at the moment I am not quite comfterable with sharing with the entire internet.

@@ -11,7 +11,7 @@ Disclaimer: GitHub cannot handel the size of the Mp3 file so in order to listen 
 
 ## [First Beat](First%20Beat/)
 
-This was the first sound I ever recorded and engineered. I created it after learning how to play "Hurt" by Johnny Cash. Without realizing it, I used very similair chords and plucking pattern. After realizing how un-original this really was, I decided on focusing on layering and Panning. I added a synth sound using a Launckey mini MIDI controller and used the software to send sounds from the left and right ear in order to prevent the instruments fighting for the spotlight. From this I learned that sound engineering cannot great harmony itself as the key, chords, or notes you are playing repetive to the other instrument matters a lot when dealing with clashing sounds. 
+This was the first sound I ever recorded and engineered. I created it after learning how to play "Hurt" by Johnny Cash. Without realizing it, I used very similair chords and plucking pattern. After realizing how un-original this really was, I decided on focusing on layering and Panning. I added a synth sound using a Launckey mini MIDI controller and used the software to send sounds from the left and right ear in order to prevent the instruments from fighting for the spotlight. From this I learned that sound engineering cannot great harmony itself as the key, chords, or notes you are playing repetive to the other instrument matters a lot when dealing with clashing sounds. 
 
 
 ## [Drum Beats](Drum%20Beats)
